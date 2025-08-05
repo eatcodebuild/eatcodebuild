@@ -62,4 +62,4 @@ Based in **Australia**, open to **remote and hybrid opportunities**.
 
 ---
 
-> *“Code bridges logic with creativity — solving real challenges with clean, scalable solutions.”*
+> *“Let's go!”*
