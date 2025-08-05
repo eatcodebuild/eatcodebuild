@@ -7,6 +7,12 @@ Based in **Australia**, open to **remote and hybrid opportunities**.
 
 ---
 
+## 🌐 My Website  
+🎯 **Check out my personal site & portfolio:**  
+[![Website](https://img.shields.io/badge/🌏%20ryancjeffrey.com-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ryancjeffrey.com)
+
+---
+
 ## 🚀 About Me
 - 💻 Founder of **3 Yellow Circles** – empowering trade services to grow digitally.
 - 🛠 Proficient in **HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Bootstrap**, and basic **React**.
@@ -52,7 +58,7 @@ Based in **Australia**, open to **remote and hybrid opportunities**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ryan-jeffrey-b21327247/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/ryancjeffrey/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/eatcodebuild)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/eatcodebuild)  
 
 ---
 
