@@ -48,8 +48,7 @@ Based in **Australia**, open to **remote and hybrid opportunities**.
 
 ## 🌟 Featured Projects
 
-- **[Full-Stack To‑Do App](https://github.com/eatcodebuild/Full-Stack-To-Do-App)** – A modern web app using HTML, CSS, JavaScript front-end and Node.js + Express + MongoDB back-end.  
-- **[Coastal Joinery](https://github.com/eatcodebuild/Coastal-Joinery)** – Front-end site built for a joinery company, showcasing responsive UI design.  
+- **[Full-Stack To‑Do App](https://github.com/eatcodebuild/Full-Stack-To-Do-App)** – A modern web app using HTML, CSS, JavaScript front-end and Node.js + Express + MongoDB back-end.    
 - **[Ryan‑Jeffrey‑Portfolio](https://github.com/eatcodebuild/Ryan-Jeffrey-Portfolio)** – Your online portfolio site, hosted on Vercel, highlighting your work and story.
 
 ---
