@@ -15,7 +15,7 @@ Based in **Australia**, open to **remote and hybrid opportunities**.
 
 ## 🚀 About Me
 - 💻 Founder of **3 Yellow Circles** – empowering trade services to grow digitally.
-- 🛠 Proficient in **HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Bootstrap**, and basic **React**.
+- 🛠 Proficient in **HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Bootstrap**, and **React**.
 - 🎨 Experience with **Figma, Canva** for design and prototyping.
 - 📚 Educator in web dev fundamentals and emerging tech like blockchain.
 - ⚡ Strong track record in project delivery, leadership, and mentoring.
